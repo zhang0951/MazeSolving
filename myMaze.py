@@ -1,7 +1,6 @@
 # Author: William Zhang
 # Description: This is a maze solving algorithm. This is an implementation of the Wall Follower Algorithm. 
 # It uses the "left hand" of the robot as a means to solve the maze.
-# Course Title: EGN 4060C
 # Date: April 23, 2018
 
 import sys, pygame
