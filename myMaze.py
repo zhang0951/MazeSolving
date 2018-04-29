@@ -2,6 +2,7 @@
 # Description: This is a maze solving algorithm. This is an implementation of the Wall Follower Algorithm. 
 # It uses the "left hand" of the robot as a means to solve the maze.
 # Date: April 23, 2018
+# Copyright 2018
 
 import sys, pygame
 from pygame.locals import *
